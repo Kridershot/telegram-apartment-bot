@@ -1,3 +1,3 @@
-Simple Python Telegram bot for receiving messages and sending to chat
+Simple Python Telegram bot for receiving messages and sending in to specific chat.
 
-packages: python-telegram-bot
+Deployed on Yandex Cloud serverless functions
